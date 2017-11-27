@@ -4,8 +4,8 @@ Libre Office is a currently active open source office productivity software suit
 
 # Licensing
 Libre Office operates under a variety of licenses, but the primary two are:
-1.Mozilla Public License v2.0, and 2.
- Apache Open License. The software is based on code from Apache Open Office but may also incorporate items from various other open softwares which change from version to version.
+1.Mozilla Public License v2.0,
+2.Apache Open License. The software is based on code from Apache Open Office but may also incorporate items from various other open softwares which change from version to version.
 # How to get the source code
 The source code is available in three ways:
 1. Clone from the anongit repository, git clone git://anongit.freedesktop.org/libreoffice/core
